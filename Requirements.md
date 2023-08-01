@@ -4,18 +4,25 @@
 
 The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
 
-![flowchart](https://user-images.githubusercontent.com/71463658/101475597-9db6f400-3972-11eb-8b9f-dec58a00104f.png)
+Java Collections can achieve all the operations that you perform on a data such as searching, sorting, insertion, manipulation, and deletion.
 
-## Collection framework used in this project
+Java Collection means a single unit of objects. Java Collection framework provides many interfaces (Set, List, Queue, Deque) and classes (ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet).
 
-### In Graph_M.java
+![image](https://github.com/Glance-JJ/Metro_Shortest_Route/assets/100403922/c9a9fbe9-1d93-4910-bc7b-0f5dda318478)
+![image](https://github.com/Glance-JJ/Metro_Shortest_Route/assets/100403922/65a8fd3c-90b8-48cf-8583-5159f1317068)
 
-*  ArrayList
+
+
+Collection framework used in this project
+
+In Graph_M.java
+
+* ArrayList
 * LinkedList
 * Stack
 * HashMap
 
-### In Heap.java
+In Heap.java
 
 * HashMap
 * ArrayList
